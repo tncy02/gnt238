@@ -6,7 +6,7 @@
 ?>
 
 <div class="container mt-5">
-    <table class="table table-dark table-hover table table-striped table-bordered table-hover table-success" style="font-family:cursive;">
+    <table class="table table-danger table-hover table table-striped table-bordered table-hover table-success" style="font-family:cursive;">
         <tr>
         <th>Customer ID</th>
         <th>Name</th>

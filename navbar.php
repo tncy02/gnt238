@@ -15,7 +15,7 @@
       </li>
 
       <li class="nav-item">
-        <a class="nav-link active" href="showStd.php">Minor-Department<Datag></Datag></a>
+        <a class="nav-link active" href="depart.php">Minor-Department<Datag></Datag></a>
       </li>
 
       <li class="nav-item">
