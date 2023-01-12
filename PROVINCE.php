@@ -1,8 +1,8 @@
 <?php
-include ("header.php");
-include ("banner.php");
-include ("navigater.php");
-include ("connect.php");
+    include "header.php";
+    include "banner.php";
+    include "navbar.php ";
+    include "conn.php";
 ?>
 <div class="container mt-5">
 <table class="table table-dark table-hover table table-striped table-bordered table-hover table-success" style="font-family:cursive;">
@@ -14,7 +14,7 @@ include ("connect.php");
 
   <!-- LOOP FOR SELECT DATA FROM DATABASE -->
 <?php
-$sql = "SELECT * FROM student3";
+$sql = "SELECT * FROM province";
 $result = mysqli_query($conn, $sql);
 
 if (mysqli_num_rows($result) > 0) {
