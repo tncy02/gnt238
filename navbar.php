@@ -7,6 +7,18 @@
       </li>
 
       <li class="nav-item">
+        <a class="nav-link active" href="PROVINCE.php">Province<Datag></Datag></a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link active" href="showCustomer.php">Customer<Datag></Datag></a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link active" href="showStd.php">Minor-Department<Datag></Datag></a>
+      </li>
+
+      <li class="nav-item">
         <a class="nav-link active" href="showStd.php">Show Student <Datag></Datag></a>
       </li>
 
