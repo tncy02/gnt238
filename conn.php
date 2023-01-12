@@ -1,9 +1,13 @@
 <?php
-$servername = "localhost";
-$username = "it65309010002";
-$password = "it12345";
-$dbname = "it65309010002";
+// $servername = "localhost";
+// $username = "it65309010002";
+// $password = "it12345";
+// $dbname = "it65309010002";
 
+$servername = "localhost";
+$username = "root";
+$password = "123456789";
+$dbname = "web2111";
 // Create connection
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 mysqli_set_charset($conn,"utf8");
